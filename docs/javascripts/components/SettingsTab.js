@@ -48,7 +48,7 @@ Vue.component("settings-tab", {
 
 /*
 Planned to remove:
-- Both versions of Bicolor 2048/Bicolor 4096: Available with Modifier, go to "Settings and Modifiers", switch to Modifier, go to page 4, and you will see "Multicolor Tiles", change this value to 2.
+- Both versions of Bicolor 2048/Bicolor 4096: Available with Global Modifier, go to "Settings and Modifiers", switch to Modifier, go to page 4, and you will see "Multicolor Tiles", change this value to 2.
 - TB148's Harder 2048: Duplicate of Michael's Harder 2048, and latter have proper colour scheme.
 - Michael's Annihilation 2048: Just a harder variant of Hyper's Annihilation 512, and latter appear to custom mode example. Though I will list both as mode creator.
 - Both versions of 1024 (3125 variant): Can be recreated with Mode Modifier of Alternate 5040, select 3125 variant, change the "Tiles progress through" modifier to power of, and enter 4 in the box.
@@ -59,7 +59,7 @@ Planned to remove:
 - marouane's NaN (Power of 1): Duplicate of Michael's 1 (Power of 1), and latter have proper rule text.
 - Michael's Power of phi: Duplicate of Aren's Power of phi, and latter have colour scheme that's easier to disinguish, both will get credited though.
 
-- 143: Identical to Official Mode 2583, apart from spawning tiles.
+- 143: Identical to Official Mode 2583, apart from spawning tiles and the winning tile.
 - Odd-Only 1597: Two modes will be merged into one, using Aren's colour scheme with F1e308's rule text, and both will be credited for.
 - Michael's 1728 (Fibonacci): Same reason as Michael's Power of phi.
 
